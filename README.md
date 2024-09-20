@@ -1,5 +1,3 @@
-<p>oh hi, didn't see you there</p>
-
 <p>
   I like Linux, math, music, and calculators. I'm a full-time CS student at the University of Montana doing IT on the side.
 </p>
