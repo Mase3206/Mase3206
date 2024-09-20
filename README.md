@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 <p>
-  I am a full-time Computer Science student at the Univeristy of Montana.
+  I like Linux, math, music, and calculators. I'm a full-time CS student at the University of Montana doing IT on the side.
 </p>
 <ul>
   <li>Still tinkering, breaking, and fixing technology</li>
