@@ -5,7 +5,7 @@
   <li>Still tinkering, breaking, and fixing technology</li>
   <li>Always an urbanist</li>
   <li>Running a homelab</li>
-  <li>Learning Bash and Java</li>
+  <li>Learning Java, Django, and Vim</li>
 </ul>
 
 <h2>My tech stack</h2>
@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp; -->
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/c/c-original.svg" title="C (learning)" alt="C (learning)" width="40" height="40" />&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/c/c-original.svg" title="C (learning)" alt="C (learning)" width="40" height="40" />&nbsp; -->
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/neovim/neovim-original.svg" title="Neovim (on the side)" alt="Neovim (on the side)" width="40" height="40" />&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/django/django-plain.svg" title="Django (learning)" alt="Django (learning)" width="40" height="40" />&nbsp; -->
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original.svg" title="Java (learning)" alt="Java (learning)" width="40" height="40" />&nbsp;
