@@ -24,5 +24,5 @@
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twingate-light.png" title="Twingate" alt="Twingate" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/rockylinux/rockylinux-original.svg" title="Rocky Linux" alt="Rocky Linux" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/authentik.png" title="Authentik SSO" alt="Authentik SSO" height="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/authentik.png" title="Authentik SSO" alt="Authentik SSO" height="40" /> -->
 </div>
