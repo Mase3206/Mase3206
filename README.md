@@ -1,5 +1,5 @@
 <p>
-  I like Linux, math, music, and calculators. I'm a full-time CS student at the University of Montana doing IT on the side.
+  I like Linux, math, music, and calculators. I'm a full-time CS student and Endpoint Administrator at the University of Montana.
 </p>
 <ul>
   <li>Still tinkering, breaking, and fixing technology</li>
